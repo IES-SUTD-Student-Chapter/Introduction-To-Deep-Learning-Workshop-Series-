@@ -11,3 +11,11 @@ If you have any queries and questions please feel free to reach out to the follo
 - Mihir Chibber (@meheehee)
 - Gargi (@gxepanda)
 - Melody Caramel (@caramel_melmel)
+
+You can access the video recording of the two workshops using these links:
+
+- [Day 1 Part 1]( https://web.microsoftstream.com/video/9c0c2bc6-f864-432b-97df-56496fafc386 )
+- [Day 1 Part 2]( https://web.microsoftstream.com/video/927bac05-3842-4933-922c-21b7792518ea )
+- [Day 2]( https://web.microsoftstream.com/video/045794da-c1d2-4205-91aa-eea9d80ce140 )
+
+
